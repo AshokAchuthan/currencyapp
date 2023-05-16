@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+.bg{
+    background-image: url('https://c0.wallpaperflare.com/preview/1017/538/491/money-finance-bank-cash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
